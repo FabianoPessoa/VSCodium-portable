@@ -1,0 +1,10 @@
+git clone <path do git>
+
+alterações
+git status
+git add <arquivo>
+git commit -m "<arquvio>"
+git log --oneline --graph
+git branch -M <arquvio> sem a extensão
+git remote add origin <link do repositório criado>
+git push -u origin <nome do arquivo>
